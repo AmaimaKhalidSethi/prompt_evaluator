@@ -1,0 +1,22 @@
+[
+  {
+    "id": "tc1_vaccine",
+    "input": "Scientists at Oxford University have developed a new mRNA vaccine showing 95% efficacy against five major influenza strains in a randomised clinical trial of 12,000 participants across six countries. The trial, published in The Lancet, found no serious adverse events and showed the vaccine remained effective against novel drift variants. Researchers say the vaccine could be manufactured at scale within 90 days of a new strain being identified, offering a critical advantage over traditional flu vaccines which take up to six months to produce."
+  },
+  {
+    "id": "tc2_fed",
+    "input": "The Federal Reserve held interest rates steady at 5.25–5.50% for the third consecutive meeting on Wednesday, citing persistent services inflation and a still-tight labour market despite headline CPI falling to 2.9%. Fed Chair Jerome Powell said the committee remains data-dependent and is not yet confident that inflation is sustainably returning to its 2% target. Markets had priced in a 30% chance of a cut; following the announcement, the S&P 500 fell 0.8% and the 10-year Treasury yield rose to 4.62%."
+  },
+  {
+    "id": "tc3_startup",
+    "input": "San Francisco-based logistics startup RouteAI closed a $200 million Series C round led by Sequoia Capital and Tiger Global, valuing the company at $1.4 billion. The company uses machine learning models trained on real-time traffic, weather, and demand data to generate delivery routes it claims reduce last-mile logistics costs by an average of 31% across its 180 enterprise clients. The funding will be used to expand into Southeast Asian and Latin American markets and to double its engineering headcount from 250 to 500 by end of year."
+  },
+  {
+    "id": "tc4_council",
+    "input": "The Austin City Council voted 7–4 late Tuesday to approve a contentious downtown redevelopment plan that will convert 18 surface parking lots totalling 22 acres into mixed-use developments over the next seven years. The plan mandates that 25% of all new residential units be designated affordable housing at 80% of area median income. Opponents, including local business owners and parking advocacy groups, argued the loss of parking would reduce foot traffic and harm small retailers. Supporters cited the housing affordability crisis and noted the development is projected to add 4,200 housing units and 900 permanent jobs."
+  },
+  {
+    "id": "tc5_pyramid",
+    "input": "A team of archaeologists from Cairo University and the French CNRS announced the discovery of a previously unknown chamber inside the Great Pyramid of Giza, detected using cosmic-ray muon imaging. The chamber, approximately 9 metres long and located above the Grand Gallery, appears to contain wooden artefacts and fragments of papyrus that preliminary analysis suggests date to the 26th century BCE, contemporary with Pharaoh Khufu's reign. Egyptologists say the find could provide new insight into construction logistics, as earlier muon scans in 2017 had suggested a void in this location but could not confirm its contents."
+  }
+]
